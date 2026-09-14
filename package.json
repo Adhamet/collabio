@@ -1,0 +1,27 @@
+{
+    "name": "collabio",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "devStart": "nodemon server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Adhamet/collabio.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Adhamet/collabio/issues"
+    },
+    "homepage": "https://github.com/Adhamet/collabio#readme",
+    "dependencies": {
+        "express": "^5.2.1"
+    },
+    "devDependencies": {
+        "nodemon": "^3.1.14",
+        "typescript": "^6.0.3"
+    }
+}
